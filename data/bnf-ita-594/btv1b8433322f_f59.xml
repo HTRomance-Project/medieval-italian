@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT7535" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT5919" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT5918" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT5917" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT5916" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT5915" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT5914" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT5913" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT5912" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT5911" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT5910" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT5923" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT5922" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT5921" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT5920" LABEL="SealZone" DESCRIPTION="block type SealZone"/>
-    <OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/><OtherTag ID="LT3" LABEL="Correction" DESCRIPTION="line type Correction"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2531" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT2029" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT2028" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT2027" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT2026" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT3" LABEL="Correction" DESCRIPTION="line type Correction"/><OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/><OtherTag ID="LT2026" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT2027" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT2028" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT2029" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT2531" LABEL="default" DESCRIPTION="line type default"/>
   </Tags>
   
   <Layout>
@@ -42,7 +42,7 @@
                     WIDTH="890"
                     HEIGHT="115">
             <Shape><Polygon POINTS="1607 681 1567 681 1527 681 1488 681 1448 681 1408 681 1368 681 1328 681 1288 681 1248 681 1208 681 1188 681 1188 685 1184 689 1113 689 949 681 929 681 889 681 849 681 809 681 769 681 773 765 773 796 1655 789 1659 757 1651 681 1647 681"/></Shape>
-	    <String CONTENT="a paterna vertu ſoma ⁊ in menſa"
+	    <String CONTENT="a paterna uertu ſoma ⁊ in menſa"
                     HPOS="769"
                     VPOS="681"
                     WIDTH="890"
@@ -59,7 +59,7 @@
                     WIDTH="928"
                     HEIGHT="83">
             <Shape><Polygon POINTS="765 842 1687 836 1690 812 1682 770 1482 773 1472 773 1416 759 1413 759 1411 759 1368 773 1365 773 1363 773 1299 759 1296 759 1294 759 1291 759 1275 773 1203 762 1201 762 1092 775 1044 762 1041 762 1039 762 972 775 797 762 794 762 791 762 762 775 765 818"/></Shape>
-	    <String CONTENT="che creo el mondo ſol ꝑ la rapina"
+	    <String CONTENT="che creo el mondo ſol ꝑ larapina"
                     HPOS="762"
                     VPOS="759"
                     WIDTH="928"
@@ -93,7 +93,7 @@
                     WIDTH="786"
                     HEIGHT="96">
             <Shape><Polygon POINTS="753 988 1531 996 1539 976 1535 904 757 900 757 972"/></Shape>
-	    <String CONTENT="t riparo luniverſal uvina"
+	    <String CONTENT="t riparo luniuerſal ruina"
                     HPOS="753"
                     VPOS="900"
                     WIDTH="786"
@@ -110,7 +110,7 @@
                     WIDTH="1140"
                     HEIGHT="83">
             <Shape><Polygon POINTS="762 1038 1897 1044 1902 1022 1900 964 1817 964 1815 964 1812 964 1809 964 1785 980 1663 967 1642 964 1639 964 1636 964 1628 967 1573 980 1493 967 1480 967 1477 967 1474 967 1472 967 1453 977 1442 969 1440 967 1440 964 1437 964 1435 964 1432 964 1429 964 1411 969 1365 980 1315 969 1296 967 1294 967 1256 969 1198 977 1190 972 1182 964 1182 961 1179 961 1177 961 1174 961 1171 961 1132 972 1105 977 765 977 765 1017"/></Shape>
-	    <String CONTENT="con nuova ſchiacta ch̾ procede ⁊ naſce"
+	    <String CONTENT="con nuoua ſchiacta ch̾ procede ⁊ naſce"
                     HPOS="762"
                     VPOS="961"
                     WIDTH="1140"
@@ -178,7 +178,7 @@
                     WIDTH="1110"
                     HEIGHT="93">
             <Shape><Polygon POINTS="762 1338 1870 1325 1870 1301 1862 1251 1623 1261 1562 1251 1533 1245 1530 1245 1528 1245 1514 1251 1477 1264 1419 1251 1403 1248 1400 1248 1397 1248 1389 1251 1347 1264 1288 1251 1272 1248 1270 1248 1267 1248 1256 1251 1214 1264 1169 1251 1158 1248 1155 1248 1153 1248 1150 1248 1148 1248 1145 1251 1121 1267 760 1253 762 1309"/></Shape>
-	    <String CONTENT="leva del mondo ch̾ cialbergha ⁊ paſcie"
+	    <String CONTENT="leua del mondo ch̾ cialbergha ⁊ paſcie"
                     HPOS="760"
                     VPOS="1245"
                     WIDTH="1110"
@@ -195,7 +195,7 @@
                     WIDTH="1010"
                     HEIGHT="95">
             <Shape><Polygon POINTS="765 1414 1775 1410 1775 1394 1771 1319 765 1330 765 1394"/></Shape>
-	    <String CONTENT="on averan giardine verſier ne orte"
+	    <String CONTENT="on aueran giardine uerſier ne orte"
                     HPOS="765"
                     VPOS="1319"
                     WIDTH="1010"
@@ -229,7 +229,7 @@
                     WIDTH="1060"
                     HEIGHT="80">
             <Shape><Polygon POINTS="765 1548 1203 1538 1230 1543 1288 1554 1291 1554 1397 1540 1419 1538 1464 1538 1777 1551 1780 1551 1783 1551 1822 1532 1822 1516 1815 1474 762 1477 765 1524"/></Shape>
-	    <String CONTENT="nel mar avera ꝑ lite nave o porte"
+	    <String CONTENT="nel mar auera ꝑ lite naue o porte"
                     HPOS="762"
                     VPOS="1474"
                     WIDTH="1060"
@@ -280,7 +280,7 @@
                     WIDTH="1095"
                     HEIGHT="85">
             <Shape><Polygon POINTS="754 1753 1844 1758 1849 1737 1846 1694 757 1673 757 1721"/></Shape>
-	    <String CONTENT="ſera dai venti e loro aſpre tomolte"
+	    <String CONTENT="ſera dai uenti e loro aſpre tomolte"
                     HPOS="754"
                     VPOS="1673"
                     WIDTH="1095"
@@ -314,7 +314,7 @@
                     WIDTH="1124"
                     HEIGHT="80">
             <Shape><Polygon POINTS="752 1888 1126 1910 1129 1910 1873 1904 1876 1886 1873 1830 754 1830 754 1870"/></Shape>
-	    <String CONTENT="mira con quante mode ⁊ vie diverſe"
+	    <String CONTENT="mira con quante mode ⁊ uie diuerſe"
                     HPOS="752"
                     VPOS="1830"
                     WIDTH="1124"
@@ -400,7 +400,7 @@
                     WIDTH="982"
                     HEIGHT="96">
             <Shape><Polygon POINTS="745 2279 1719 2287 1727 2279 1723 2199 749 2191 749 2267"/></Shape>
-	    <String CONTENT="altre Aſſay ei quale fallace volpe"
+	    <String CONTENT="altre Aſſay ei quale fallace uolpe"
                     HPOS="745"
                     VPOS="2191"
                     WIDTH="982"
@@ -417,7 +417,7 @@
                     WIDTH="986"
                     HEIGHT="95">
             <Shape><Polygon POINTS="741 2353 1722 2361 1727 2343 1724 2298 1575 2298 1573 2295 1533 2274 1530 2274 1528 2274 1262 2284 1230 2271 1227 2271 1225 2271 1222 2271 1187 2290 1185 2290 1140 2268 1137 2268 1134 2268 1132 2268 1129 2268 1105 2284 1036 2271 1033 2271 951 2287 940 2287 839 2287 839 2284 797 2266 794 2266 791 2266 789 2266 744 2282 744 2329"/></Shape>
-	    <String CONTENT="ciban con frode de mortal veneno"
+	    <String CONTENT="ciban con frode de mortal ueneno"
                     HPOS="741"
                     VPOS="2266"
                     WIDTH="986"
@@ -520,7 +520,7 @@
                     WIDTH="922"
                     HEIGHT="116">
             <Shape><Polygon POINTS="730 2725 898 2739 900 2739 940 2731 985 2723 1020 2733 1039 2739 1041 2739 1044 2739 1084 2736 1187 2723 1302 2739 1318 2741 1320 2741 1323 2741 1328 2741 1368 2728 1647 2746 1652 2717 1650 2669 1605 2669 1602 2667 1583 2651 1583 2648 1581 2648 1578 2648 1575 2648 1573 2648 1517 2661 1498 2667 1482 2661 1440 2643 1437 2643 1435 2643 1432 2643 1384 2656 1357 2664 1336 2654 1304 2640 1302 2640 1190 2638 1187 2638 1185 2638 1153 2646 1110 2659 972 2646 969 2646 967 2646 935 2656 916 2640 914 2640 911 2640 908 2640 839 2654 818 2635 818 2632 815 2632 813 2632 733 2630 733 2701"/></Shape>
-	    <String CONTENT="l fin ſecur̾e ⁊ ch̾ leta che vige"
+	    <String CONTENT="l fin ſecur̾e ⁊ ch̾ leta che uige"
                     HPOS="730"
                     VPOS="2630"
                     WIDTH="922"
@@ -537,7 +537,7 @@
                     WIDTH="925"
                     HEIGHT="101">
             <Shape><Polygon POINTS="738 2800 754 2810 757 2810 760 2810 762 2810 1195 2802 1450 2818 1453 2818 1660 2802 1663 2786 1660 2744 1389 2720 1387 2720 1384 2720 1381 2720 1355 2741 1352 2741 1291 2717 1288 2717 1174 2717 1171 2717 1169 2717 1118 2739 1116 2739 1100 2739 961 2723 959 2723 741 2733 741 2778"/></Shape>
-	    <String CONTENT="ora giovene ⁊ lieta viva caſta"
+	    <String CONTENT="ora giouene ⁊ lieta uiua caſta"
                     HPOS="738"
                     VPOS="2717"
                     WIDTH="925"
@@ -674,7 +674,7 @@
                     WIDTH="1007"
                     HEIGHT="130">
             <Shape><Polygon POINTS="733 3363 898 3363 898 3360 900 3360 908 3358 956 3336 1089 3336 1126 3352 1134 3355 1137 3355 1140 3355 1278 3350 1280 3350 1283 3350 1304 3334 1320 3347 1323 3347 1326 3347 1328 3347 1331 3347 1371 3334 1384 3347 1387 3347 1387 3350 1389 3350 1392 3350 1395 3350 1424 3344 1496 3331 1517 3342 1522 3347 1525 3347 1528 3347 1530 3347 1554 3342 1613 3328 1735 3336 1737 3288 1724 3233 1703 3246 1623 3235 1594 3233 1591 3233 1589 3233 1570 3238 1522 3249 1384 3241 1299 3238 1296 3238 1294 3238 1280 3243 1264 3251 1251 3246 1235 3238 1233 3238 1230 3238 1227 3238 1225 3238 1214 3246 1203 3254 1158 3249 1110 3241 1108 3241 1105 3241 1068 3249 1039 3257 988 3251 903 3243 900 3243 898 3243 895 3243 879 3254 871 3259 839 3257 762 3246 760 3246 757 3246 730 3254 733 3304"/></Shape>
-	    <String CONTENT="de noſtra vita ⁊ deicorrenti dine"
+	    <String CONTENT="de noſtra uita ⁊ deicorrenti dine"
                     HPOS="730"
                     VPOS="3233"
                     WIDTH="1007"
