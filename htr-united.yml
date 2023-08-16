@@ -1,0 +1,52 @@
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+title: HTRomance Project / Medieval Italian
+url: https://github.com/HTRomance-Project/medieval-italian
+authors:
+ - name: Rachele
+   surname: Alba
+   roles:
+     - transcriber
+ - name: Giorgia
+   surname: Rubin
+   roles:
+     - transcriber
+ - name: Federico
+   surname: Boschetti
+   orcid: 0000-0002-7810-7735
+   roles:
+     - project-manager
+ - name: Franz
+   surname: Fischer
+   roles:
+     - project-manager
+institutions:
+ - name: >-
+     Venice Centre for Digital and Public Humanities (VeDPH), DSU, Ca’ Foscari
+     University of Venice
+ - name: >-
+     Institute for Computational Linguistics “A. Zampolli” (CNR-ILC), URT of
+     Venice
+description: Transcription of samples of Medieval Italian manuscripts
+project-name: HTRomance (Medieval Italian Section)
+language:
+ - ita
+ - vec
+production-software: eScriptorium + Kraken
+automatically-aligned: false
+script:
+ - iso: Latn
+script-type: only-manuscript
+time:
+ notBefore: '1100'
+ notAfter: '1499'
+hands:
+ count: 1-per-folder
+ precision: estimated
+license:
+ - name: CC-BY 4.0
+   url: https://creativecommons.org/licenses/by/4.0/
+format: Alto-XML
+volume:
+ - metric: pages
+   count: 60
+   
