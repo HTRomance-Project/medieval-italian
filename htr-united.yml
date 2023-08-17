@@ -186,13 +186,13 @@ time:
 title: HTRomance
 url: https://github.com/HTRomance-Project/medieval-italian
 volume:
-- count: 84654
+- count: 84657
   metric: characters
 - count: 65
   metric: files
-- count: 3086
+- count: 3085
   metric: lines
 - count: 60
   metric: pages
-- count: 382
+- count: 379
   metric: regions
