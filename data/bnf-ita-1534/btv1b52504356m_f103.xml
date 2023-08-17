@@ -153,40 +153,6 @@
 
           
           
-          <TextLine ID="eSc_line_04e4a80c"
-                    TAGREFS="LT2034"
-                    BASELINE="53 1048 181 1048" 
-                    HPOS="53"
-                    VPOS="1001"
-                    WIDTH="128"
-                    HEIGHT="64">
-            <Shape><Polygon POINTS="127 1058 179 1065 181 1048 181 1019 125 1005 124 1005 123 1005 121 1005 121 1007 117 1009 108 1019 87 1019 55 1001 53 1048 53 1063"/></Shape>
-	    <String CONTENT="Plato. s̃"
-                    HPOS="53"
-                    VPOS="1001"
-                    WIDTH="128"
-                    HEIGHT="64"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_186cc5cd"
-                    
-                    BASELINE="60 1103 206 1100" 
-                    HPOS="59"
-                    VPOS="1053"
-                    WIDTH="147"
-                    HEIGHT="106">
-            <Shape><Polygon POINTS="60 1154 96 1159 97 1159 99 1159 125 1149 151 1157 152 1157 154 1157 155 1157 157 1157 157 1155 171 1142 172 1140 206 1138 206 1100 203 1074 169 1074 131 1053 130 1053 90 1053 89 1053 87 1053 86 1053 59 1073 60 1103"/></Shape>
-	    <String CONTENT="95. Ardemi."
-                    HPOS="59"
-                    VPOS="1053"
-                    WIDTH="147"
-                    HEIGHT="106"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_b08033eb"
                     TAGREFS="LT2034"
                     BASELINE="212 1048 772 1046 1348 1058" 
@@ -322,6 +288,87 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="28"
+                   VPOS="977"
+                   WIDTH="185"
+                   HEIGHT="162"
+                   ID="eSc_textblock_4801d0d1"
+                   TAGREFS="BT5943">
+          <Shape><Polygon POINTS="28 977 28 1139 213 1139 196 1039 179 977"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_04e4a80c"
+                    TAGREFS="LT2034"
+                    BASELINE="53 1048 181 1048" 
+                    HPOS="53"
+                    VPOS="1001"
+                    WIDTH="128"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="127 1058 179 1065 181 1048 181 1019 125 1005 124 1005 123 1005 121 1005 121 1007 117 1009 108 1019 87 1019 55 1001 53 1048 53 1063"/></Shape>
+	    <String CONTENT="Plato. s̃"
+                    HPOS="53"
+                    VPOS="1001"
+                    WIDTH="128"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_186cc5cd"
+                    TAGREFS="LT2034"
+                    BASELINE="60 1103 206 1100" 
+                    HPOS="59"
+                    VPOS="1053"
+                    WIDTH="147"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="60 1154 96 1159 97 1159 99 1159 125 1149 151 1157 152 1157 154 1157 155 1157 157 1157 157 1155 171 1142 172 1140 206 1138 206 1100 203 1074 169 1074 131 1053 130 1053 90 1053 89 1053 87 1053 86 1053 59 1073 60 1103"/></Shape>
+	    <String CONTENT="95. Ardemi."
+                    HPOS="59"
+                    VPOS="1053"
+                    WIDTH="147"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1544"
+                   VPOS="84"
+                   WIDTH="116"
+                   HEIGHT="89"
+                   ID="eSc_textblock_8ad2589a"
+                   TAGREFS="BT5945">
+          <Shape><Polygon POINTS="1634 84 1660 168 1597 173 1544 171 1545 107 1568 84"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d93c5d3b"
+                    TAGREFS="LT2034"
+                    BASELINE="1556 158 1644 155" 
+                    HPOS="1553"
+                    VPOS="78"
+                    WIDTH="89"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="1555 157 1555 163 1638 178 1642 154 1638 91 1587 78 1585 78 1583 78 1553 89 1555 157"/></Shape>
+	    <String CONTENT="97"
+                    HPOS="1553"
+                    VPOS="78"
+                    WIDTH="89"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="88"
+                   VPOS="1836"
+                   WIDTH="1307"
+                   HEIGHT="210"
+                   ID="eSc_textblock_b4ed30fd"
+                   TAGREFS="BT5943">
+          <Shape><Polygon POINTS="88 1836 88 2046 1395 2046 1367 1898 1085 1839"/></Shape>
+          
           
           <TextLine ID="eSc_line_d0940dc8"
                     TAGREFS="LT2034"
@@ -358,58 +405,7 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="1544"
-                   VPOS="84"
-                   WIDTH="116"
-                   HEIGHT="89"
-                   ID="eSc_textblock_8ad2589a"
-                   TAGREFS="BT5945">
-          <Shape><Polygon POINTS="1634 84 1660 168 1597 173 1544 171 1545 107 1568 84"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="28"
-                   VPOS="977"
-                   WIDTH="185"
-                   HEIGHT="162"
-                   ID="eSc_textblock_4801d0d1"
-                   TAGREFS="BT5943">
-          <Shape><Polygon POINTS="28 977 28 1139 213 1139 196 1039 179 977"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="88"
-                   VPOS="1836"
-                   WIDTH="1307"
-                   HEIGHT="210"
-                   ID="eSc_textblock_b4ed30fd"
-                   TAGREFS="BT5943">
-          <Shape><Polygon POINTS="88 1836 88 2046 1395 2046 1367 1898 1085 1839"/></Shape>
-          
-        </TextBlock>
-        
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_d93c5d3b"
-                    TAGREFS="LT2"
-                    BASELINE="1556 158 1644 155" 
-                    HPOS="1553"
-                    VPOS="78"
-                    WIDTH="89"
-                    HEIGHT="100">
-            <Shape><Polygon POINTS="1555 157 1555 163 1638 178 1642 154 1638 91 1587 78 1585 78 1583 78 1553 89 1555 157"/></Shape>
-	    <String CONTENT="97"
-                    HPOS="1553"
-                    VPOS="78"
-                    WIDTH="89"
-                    HEIGHT="100"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>
