@@ -626,7 +626,7 @@
                     VPOS="244"
                     WIDTH="88"
                     HEIGHT="217">
-            <Shape><Polygon POINTS="3327 244 3265 261 3265 364 3269 461 3353 435 3353 364 3345 244 3327 244"/></Shape>
+            <Shape><Polygon POINTS="3265 261 3265 364 3269 461 3353 435 3353 364 3345 244 3327 244"/></Shape>
 	    <String CONTENT="13"
                     HPOS="3265"
                     VPOS="244"
