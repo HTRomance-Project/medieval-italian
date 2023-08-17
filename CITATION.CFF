@@ -35,3 +35,7 @@ keywords:
   - layout segmentation
   - medieval
   - manuscripts
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.8256728
+    description: "This is the DOI of the latest version available."
