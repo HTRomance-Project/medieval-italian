@@ -6,7 +6,15 @@ HTRomance: Corpus Medieval Italian
 
 ## Introduction
 
+This ground-truth dataset has been carefully built around the idea of having generic data for building a strong and reliable model for HTR of Italian manuscripts. Each manuscript should have around 10 columns (5 bi-columns pages or 10 pages of single column).
+
+Data follow the Segmonto guidelines.
+
 ## Credits
+
+- Transcriptions: Rachele Alba, Giorgia Rubin.
+- Supervision and manuscript selection: Federic Boschetti, Franz Fischer.
+- Project management: Thibault Clérice, Alix Chagué.
 
 <!-- Rien ne doit être modifié manuellement après la balise Start Auto -->
 
@@ -23,20 +31,19 @@ single manuscript, identified by its bookshelf.
 
 <!-- BeginTable -->
 
-| Shelfmark                                                        | Folder                                      | Biblissima   | Range   | Type   |   Century | Color   |   Main Zones |   Lines |   Characters | Genre              | Content                            |
-|------------------------------------------------------------------|---------------------------------------------|--------------|---------|--------|-----------|---------|--------------|---------|--------------|--------------------|------------------------------------|
-| [BnF Ita 912](https://gallica.bnf.fr/ark:/12148/btv1b52501692k)  | [🔗](../medieval-italian/data/bnf-ita-912)  |              | 2r-6v   | prose  |        14 | ✓       |            0 |       0 |            0 | prose              | Cataloghi di prezzi delle merci    |
-| [BnF Ita 783](https://gallica.bnf.fr/ark:/12148/btv1b52515037r)  | [🔗](../medieval-italian/data/bnf-ita-783)  |              | 12v-17r | prose  |        14 | ✓       |            5 |     158 |         6397 | prose              | Dandolo, Cronica                   |
-| [BnF Ita 434](https://gallica.bnf.fr/ark:/12148/btv1b84363869)   | [🔗](../medieval-italian/data/bnf-ita-434)  |              | 1v-3v   | prose  |        14 | ✓       |            5 |     186 |         8573 | prose              | Marco Polo, Il Milione             |
-| [BnF Ita 590](https://gallica.bnf.fr/ark:/12148/btv1b8433319z)   | [🔗](../medieval-italian/data/bnf-ita-590)  |              | 16r-18r | prose  |        14 | ✓       |           10 |     452 |         9370 | poésie+prose       | Virgilio, Eneide (volgarizzamento) |
-| [BnF Ita 79](https://gallica.bnf.fr/ark:/12148/btv1b52507492w)   | [🔗](../medieval-italian/data/bnf-ita-79)   |              | 54r-56r | vers   |        14 | ✓       |            9 |     423 |        11773 | poésie             | Dante, La divina commedia          |
-| [BnF Ita 481](https://gallica.bnf.fr/ark:/12148/btv1b84268148)   | [🔗](../medieval-italian/data/bnf-ita-481)  |              | 41r-43r | prose  |        14 | ✓       |           10 |     512 |        15667 | prose              | Boccaccio, Filocolo                |
-| [BnF Ita 74](https://gallica.bnf.fr/ark:/12148/btv1b10500687r)   | [🔗](../medieval-italian/data/bnf-ita-74)   |              | 59r-61r | mixed  |        14 | ✓       |            0 |       0 |            0 | poésie+commentaire | Dante, Inferno                     |
-| [BnF Ita 594](https://gallica.bnf.fr/ark:/12148/btv1b8433322f)   | [🔗](../medieval-italian/data/bnf-ita-594)  |              | 25r-29v | vers   |        15 | ✓       |            5 |     244 |         5132 | poésie             | El Sinibaldo                       |
-| [BnF Ita 70](https://gallica.bnf.fr/ark:/12148/btv1b8426803g)    | [🔗](../medieval-italian/data/bnf-ita-70)   |              | 81r-85v | vers   |        15 | ✓       |            7 |     338 |         7361 | poésie             | Dante, La divina commedia          |
-| [BnF Ita 583](https://gallica.bnf.fr/ark:/12148/btv1b84333085)   | [🔗](../medieval-italian/data/bnf-ita-583)  |              | 41r-43r | vers   |        15 | ✓       |           10 |     373 |         9909 | poésie             | Boccaccio, Teseida                 |
-| [BnF Ita 1534](https://gallica.bnf.fr/ark:/12148/btv1b52504356m) | [🔗](../medieval-italian/data/bnf-ita-1534) |              | 91-100  | vers   |        16 | ✓       |           10 |     181 |         4179 | poésie             | G.B. Strozzi, Rime                 |
-| [BnF Ita 820](https://gallica.bnf.fr/ark:/12148/btv1b52500670h)  | [🔗](../medieval-italian/data/bnf-ita-820)  |              | 2r-6v   | prose  |        16 | ✓       |            5 |     125 |         4680 | prose              | Vita di Cola di Rienzo (et alia)   |
+| Shelfmark                                                        | Folder                                      | Biblissima   | Range   | Type   |   Century | Color   |   Main Zones |   Lines |   Characters | Genre        | Content                            |
+|------------------------------------------------------------------|---------------------------------------------|--------------|---------|--------|-----------|---------|--------------|---------|--------------|--------------|------------------------------------|
+| [BnF Ita 912](https://gallica.bnf.fr/ark:/12148/btv1b52501692k)  | [🔗](../medieval-italian/data/bnf-ita-912)  |              | 2r-6v   | prose  |        14 | ✓       |            5 |      94 |         1613 | prose        | Cataloghi di prezzi delle merci    |
+| [BnF Ita 783](https://gallica.bnf.fr/ark:/12148/btv1b52515037r)  | [🔗](../medieval-italian/data/bnf-ita-783)  |              | 12v-17r | prose  |        14 | ✓       |            5 |     158 |         6397 | prose        | Dandolo, Cronica                   |
+| [BnF Ita 434](https://gallica.bnf.fr/ark:/12148/btv1b84363869)   | [🔗](../medieval-italian/data/bnf-ita-434)  |              | 1v-3v   | prose  |        14 | ✓       |            5 |     186 |         8573 | prose        | Marco Polo, Il Milione             |
+| [BnF Ita 590](https://gallica.bnf.fr/ark:/12148/btv1b8433319z)   | [🔗](../medieval-italian/data/bnf-ita-590)  |              | 16r-18r | prose  |        14 | ✓       |           10 |     452 |         9370 | poésie+prose | Virgilio, Eneide (volgarizzamento) |
+| [BnF Ita 79](https://gallica.bnf.fr/ark:/12148/btv1b52507492w)   | [🔗](../medieval-italian/data/bnf-ita-79)   |              | 54r-56r | vers   |        14 | ✓       |            9 |     423 |        11773 | poésie       | Dante, La divina commedia          |
+| [BnF Ita 481](https://gallica.bnf.fr/ark:/12148/btv1b84268148)   | [🔗](../medieval-italian/data/bnf-ita-481)  |              | 41r-43r | prose  |        14 | ✓       |           10 |     512 |        15667 | prose        | Boccaccio, Filocolo                |
+| [BnF Ita 594](https://gallica.bnf.fr/ark:/12148/btv1b8433322f)   | [🔗](../medieval-italian/data/bnf-ita-594)  |              | 25r-29v | vers   |        15 | ✓       |            5 |     244 |         5132 | poésie       | El Sinibaldo                       |
+| [BnF Ita 70](https://gallica.bnf.fr/ark:/12148/btv1b8426803g)    | [🔗](../medieval-italian/data/bnf-ita-70)   |              | 81r-85v | vers   |        15 | ✓       |            7 |     338 |         7361 | poésie       | Dante, La divina commedia          |
+| [BnF Ita 583](https://gallica.bnf.fr/ark:/12148/btv1b84333085)   | [🔗](../medieval-italian/data/bnf-ita-583)  |              | 41r-43r | vers   |        15 | ✓       |           10 |     373 |         9909 | poésie       | Boccaccio, Teseida                 |
+| [BnF Ita 1534](https://gallica.bnf.fr/ark:/12148/btv1b52504356m) | [🔗](../medieval-italian/data/bnf-ita-1534) |              | 91-100  | vers   |        16 | ✓       |           10 |     181 |         4179 | poésie       | G.B. Strozzi, Rime                 |
+| [BnF Ita 820](https://gallica.bnf.fr/ark:/12148/btv1b52500670h)  | [🔗](../medieval-italian/data/bnf-ita-820)  |              | 2r-6v   | prose  |        16 | ✓       |            5 |     125 |         4680 | prose        | Vita di Cola di Rienzo (et alia)   |
 
 <!-- EndTable -->
 
@@ -46,22 +53,22 @@ single manuscript, identified by its bookshelf.
 
 ### Regions
 
+- MainZone (81)
+- NumberingZone (39)
+- Not specified (34)
 - DropCapitalZone (188)
-- MainZone (76)
-- NumberingZone (35)
 - DecorationZone (3)
 - text (11)
-- Not specified (31)
 - MarginTextZone (30)
 - QuireMarksZone (1)
 - TitlePageZone (5)
 
 ### Lines
 
+- DefaultLine (2262)
+- Numbering (28)
+- Not specified (23)
 - DropCapitalLine (241)
-- DefaultLine (2172)
-- Not specified (22)
-- Numbering (25)
 - Signature (1)
 - HeadingLine (27)
 - InterlinearLine (5)

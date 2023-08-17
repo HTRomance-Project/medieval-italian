@@ -26,6 +26,7 @@ authors:
   orcid: 0000-0003-1852-9204
   roles:
   - project-manager
+  surname: Clérice
 automatically-aligned: false
 characters:
   members:
@@ -174,7 +175,7 @@ license:
 - name: CC-BY 4.0
   url: https://creativecommons.org/licenses/by/4.0/
 production-software: eScriptorium + Kraken
-project-name: HTRomance (Medieval Italian Section)
+project-name: HTRomance
 schema: https://htr-united.github.io/schema/2023-06-27/schema.json
 script:
 - iso: Latn
@@ -182,7 +183,7 @@ script-type: only-manuscript
 time:
   notAfter: '1499'
   notBefore: '1100'
-title: HTRomance Project / Medieval Italian
+title: HTRomance 
 url: https://github.com/HTRomance-Project/medieval-italian
 volume:
 - count: 84654
