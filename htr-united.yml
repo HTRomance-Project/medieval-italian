@@ -11,11 +11,21 @@ authors:
   orcid: 0000-0002-7810-7735
   roles:
   - project-manager
+  - quality-control
   surname: Boschetti
 - name: Franz
   roles:
   - project-manager
   surname: Fischer
+- name: Alix
+  orcid: 0000-0002-0136-4434
+  roles:
+  - project-manager
+  surname: Chagué
+- name: Thibault
+  orcid: 0000-0003-1852-9204
+  roles:
+  - project-manager
 automatically-aligned: false
 characters:
   members:
@@ -157,13 +167,6 @@ format: Alto-XML
 hands:
   count: 1-per-folder
   precision: estimated
-institutions:
-- name: >-
-    Venice Centre for Digital and Public Humanities (VeDPH), DSU, Ca’ Foscari
-    University of Venice
-- name: >-
-    Institute for Computational Linguistics “A. Zampolli” (CNR-ILC), URT of
-    Venice
 language:
 - ita
 - vec
