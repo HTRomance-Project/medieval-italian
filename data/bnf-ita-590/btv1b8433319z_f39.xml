@@ -655,19 +655,36 @@
           <Shape><Polygon POINTS="63 1121 63 1717 246 1717 246 1222 232 1121"/></Shape>
           
           
+          <TextLine ID="eSc_line_bf80ff17"
+                    TAGREFS="LT1998"
+                    BASELINE="64 1169 132 1162" 
+                    HPOS="63"
+                    VPOS="1124"
+                    WIDTH="67"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="63 1168 63 1176 130 1172 130 1161 122 1124 93 1124"/></Shape>
+	    <String CONTENT=".ii."
+                    HPOS="63"
+                    VPOS="1124"
+                    WIDTH="67"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_68afc31f"
                     TAGREFS="LT1998"
-                    BASELINE="57 1203 215 1188 239 1183" 
-                    HPOS="44"
-                    VPOS="1057"
-                    WIDTH="194"
-                    HEIGHT="178">
-            <Shape><Polygon POINTS="59 1235 238 1213 238 1180 219 1072 167 1057 163 1057 160 1057 156 1057 44 1094 55 1202"/></Shape>
+                    BASELINE="56 1210 215 1188 239 1183" 
+                    HPOS="55"
+                    VPOS="1120"
+                    WIDTH="187"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="122 1165 85 1168 55 1209 59 1243 242 1209 238 1180 219 1120 141 1135 122 1165"/></Shape>
 	    <String CONTENT="ꝑo che nel"
-                    HPOS="44"
-                    VPOS="1057"
-                    WIDTH="194"
-                    HEIGHT="178"></String>
+                    HPOS="55"
+                    VPOS="1120"
+                    WIDTH="187"
+                    HEIGHT="123"></String>
           </TextLine>
 
           
@@ -1472,19 +1489,36 @@
           <Shape><Polygon POINTS="2388 260 2388 546 2965 546 2965 260"/></Shape>
           
           
+          <TextLine ID="eSc_line_17bac385"
+                    TAGREFS="LT1998"
+                    BASELINE="2428 320 2492 320" 
+                    HPOS="2425"
+                    VPOS="260"
+                    WIDTH="63"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="2451 260 2425 260 2425 316 2425 327 2484 331 2488 316 2484 260 2462 260"/></Shape>
+	    <String CONTENT=".I."
+                    HPOS="2425"
+                    VPOS="260"
+                    WIDTH="63"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_68b848b4"
                     TAGREFS="LT1998"
-                    BASELINE="2388 380 2954 362" 
-                    HPOS="2376"
-                    VPOS="249"
-                    WIDTH="574"
-                    HEIGHT="167">
-            <Shape><Polygon POINTS="2384 416 2950 387 2950 361 2939 297 2812 297 2760 282 2727 271 2723 271 2719 271 2715 271 2704 275 2652 305 2630 282 2626 282 2622 282 2619 282 2555 290 2514 260 2499 249 2496 249 2492 249 2488 249 2376 249 2384 379"/></Shape>
+                    BASELINE="2419 387 2954 362" 
+                    HPOS="2414"
+                    VPOS="286"
+                    WIDTH="536"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="2417 409 2566 420 2570 420 2574 420 2578 420 2578 416 2589 409 2600 394 2876 387 2943 402 2950 361 2943 301 2708 286 2704 286 2701 286 2637 301 2581 316 2537 305 2503 294 2499 294 2496 294 2492 294 2488 294 2477 305 2451 320 2414 305 2417 383 2417 409"/></Shape>
 	    <String CONTENT="Qũ Joue fa uẽdecta de"
-                    HPOS="2376"
-                    VPOS="249"
-                    WIDTH="574"
-                    HEIGHT="167"></String>
+                    HPOS="2414"
+                    VPOS="286"
+                    WIDTH="536"
+                    HEIGHT="134"></String>
           </TextLine>
 
           
@@ -1534,7 +1568,7 @@
           
           
           <TextLine ID="eSc_line_6aa57b1f"
-                    
+                    TAGREFS="LT1998"
                     BASELINE="2814 182 2823 182 2871 184 2878 184" 
                     HPOS="2809"
                     VPOS="119"

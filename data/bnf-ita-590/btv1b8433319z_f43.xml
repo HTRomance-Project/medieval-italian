@@ -411,13 +411,13 @@
           
           
           <TextLine ID="eSc_line_c2881142"
-                    
+                    TAGREFS="LT1998"
                     BASELINE="272 2424 1219 2422" 
                     HPOS="268"
                     VPOS="2356"
                     WIDTH="950"
                     HEIGHT="115">
-            <Shape><Polygon POINTS="271 2423 271 2468 1210 2471 1218 2419 1207 2356 268 2356 271 2423"/></Shape>
+            <Shape><Polygon POINTS="271 2468 1210 2471 1218 2419 1207 2356 268 2356 271 2423"/></Shape>
 	    <String CONTENT="ciale laportano ne la cãme"
                     HPOS="268"
                     VPOS="2356"
@@ -567,13 +567,13 @@
           
           
           <TextLine ID="eSc_line_93d3c169"
-                    
+                    TAGREFS="LT1998"
                     BASELINE="264 3243 1238 3250" 
                     HPOS="257"
                     VPOS="3167"
                     WIDTH="979"
                     HEIGHT="134">
-            <Shape><Polygon POINTS="260 3242 257 3275 294 3294 298 3294 301 3294 704 3283 748 3301 752 3301 756 3301 1233 3279 1236 3249 1233 3182 260 3167 260 3242"/></Shape>
+            <Shape><Polygon POINTS="257 3275 294 3294 298 3294 301 3294 704 3283 748 3301 752 3301 756 3301 1233 3279 1236 3249 1233 3182 260 3167 260 3242"/></Shape>
 	    <String CONTENT="doloroſi gemiti. O amore ɨ"
                     HPOS="257"
                     VPOS="3167"
@@ -624,7 +624,7 @@
                    WIDTH="122"
                    HEIGHT="207"
                    ID="eSc_textblock_6941a561"
-                   >
+                   TAGREFS="BT5815">
           <Shape><Polygon POINTS="191 2540 191 2747 313 2747 313 2540"/></Shape>
           
           
@@ -1341,7 +1341,7 @@
                    WIDTH="195"
                    HEIGHT="195"
                    ID="eSc_textblock_2870d092"
-                   >
+                   TAGREFS="BT5815">
           <Shape><Polygon POINTS="1301 2089 1301 2284 1496 2284 1496 2089"/></Shape>
           
           
