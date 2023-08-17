@@ -35,8 +35,8 @@ single manuscript, identified by its bookshelf.
 |------------------------------------------------------------------|---------------------------------------------|--------------|---------|--------|-----------|---------|--------------|---------|--------------|--------------|------------------------------------|
 | [BnF Ita 912](https://gallica.bnf.fr/ark:/12148/btv1b52501692k)  | [🔗](../medieval-italian/data/bnf-ita-912)  |              | 2r-6v   | prose  |        14 | ✓       |            5 |      94 |         1613 | prose        | Cataloghi di prezzi delle merci    |
 | [BnF Ita 783](https://gallica.bnf.fr/ark:/12148/btv1b52515037r)  | [🔗](../medieval-italian/data/bnf-ita-783)  |              | 12v-17r | prose  |        14 | ✓       |            5 |     158 |         6397 | prose        | Dandolo, Cronica                   |
-| [BnF Ita 434](https://gallica.bnf.fr/ark:/12148/btv1b84363869)   | [🔗](../medieval-italian/data/bnf-ita-434)  |              | 1v-3v   | prose  |        14 | ✓       |            5 |     186 |         8573 | prose        | Marco Polo, Il Milione             |
-| [BnF Ita 590](https://gallica.bnf.fr/ark:/12148/btv1b8433319z)   | [🔗](../medieval-italian/data/bnf-ita-590)  |              | 16r-18r | prose  |        14 | ✓       |           10 |     452 |         9370 | poésie+prose | Virgilio, Eneide (volgarizzamento) |
+| [BnF Ita 434](https://gallica.bnf.fr/ark:/12148/btv1b84363869)   | [🔗](../medieval-italian/data/bnf-ita-434)  |              | 1v-3v   | prose  |        14 | ✓       |            5 |     185 |         8576 | prose        | Marco Polo, Il Milione             |
+| [BnF Ita 590](https://gallica.bnf.fr/ark:/12148/btv1b8433319z)   | [🔗](../medieval-italian/data/bnf-ita-590)  |              | 16r-18r | prose  |        14 | ✓       |           10 |     454 |         9377 | poésie+prose | Virgilio, Eneide (volgarizzamento) |
 | [BnF Ita 79](https://gallica.bnf.fr/ark:/12148/btv1b52507492w)   | [🔗](../medieval-italian/data/bnf-ita-79)   |              | 54r-56r | vers   |        14 | ✓       |            9 |     423 |        11773 | poésie       | Dante, La divina commedia          |
 | [BnF Ita 481](https://gallica.bnf.fr/ark:/12148/btv1b84268148)   | [🔗](../medieval-italian/data/bnf-ita-481)  |              | 41r-43r | prose  |        14 | ✓       |           10 |     512 |        15667 | prose        | Boccaccio, Filocolo                |
 | [BnF Ita 594](https://gallica.bnf.fr/ark:/12148/btv1b8433322f)   | [🔗](../medieval-italian/data/bnf-ita-594)  |              | 25r-29v | vers   |        15 | ✓       |            5 |     244 |         5132 | poésie       | El Sinibaldo                       |
@@ -55,25 +55,23 @@ single manuscript, identified by its bookshelf.
 
 - MainZone (81)
 - NumberingZone (39)
-- Not specified (34)
-- DropCapitalZone (188)
+- Not specified (15)
+- DropCapitalZone (192)
 - DecorationZone (3)
-- text (11)
+- text (6)
 - MarginTextZone (30)
 - QuireMarksZone (1)
-- TitlePageZone (5)
+- RunningTitleZone (5)
 
 ### Lines
 
-- DefaultLine (2262)
-- Numbering (28)
-- Not specified (23)
-- DropCapitalLine (241)
-- Signature (1)
-- HeadingLine (27)
-- InterlinearLine (5)
+- DefaultLine (2798)
+- Numbering (12)
+- Not specified (6)
+- DropCapitalLine (242)
+- HeadingLine (26)
+- InterlinearLine (2)
 - default (1)
-- Main (498)
 
 <!-- EndMetric -->
 
