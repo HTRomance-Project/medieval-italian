@@ -9,14 +9,14 @@ message: >-
 type: dataset
 authors:
   - given-names: Rachele
-    family-name: Alba
+    family-names: Alba
   - given-names: Giorgia
-    family-name: Rubin
+    family-names: Rubin
   - given-names: Federico
-    family-name: Boschetti
+    family-names: Boschetti
     orcid: 'https://orcid.org/0000-0002-7810-7735'
   - given-names: Franz
-    family-name: Fischer
+    family-names: Fischer
   - given-names: Thibault
     family-names: Clérice
     email: thibault.clerice@inria.fr
