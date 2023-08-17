@@ -352,21 +352,15 @@
                    TAGREFS="BT5847">
           <Shape><Polygon POINTS="1064 77 1066 121 1025 122 1033 73"/></Shape>
           
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
           
           <TextLine ID="eSc_line_589d3cfb"
-                    TAGREFS="LT2"
+                    TAGREFS="LT2006"
                     BASELINE="1028 115 1064 115" 
                     HPOS="1026"
                     VPOS="62"
                     WIDTH="37"
                     HEIGHT="67">
-            <Shape><Polygon POINTS="1026 114 1026 129 1063 123 1063 114 1063 68 1048 62 1046 62 1045 62 1043 62 1026 70 1026 114"/></Shape>
+            <Shape><Polygon POINTS="1026 129 1063 123 1063 114 1063 68 1048 62 1046 62 1045 62 1043 62 1026 70 1026 114"/></Shape>
 	    <String CONTENT="3"
                     HPOS="1026"
                     VPOS="62"
@@ -377,6 +371,8 @@
 
           
         </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>

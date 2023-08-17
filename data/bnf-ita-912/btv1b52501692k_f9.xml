@@ -344,16 +344,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="432"
-                   VPOS="1360"
-                   WIDTH="113"
-                   HEIGHT="86"
-                   ID="eSc_textblock_22b3d572"
-                   TAGREFS="BT5847">
-          <Shape><Polygon POINTS="516 1364 545 1404 531 1442 439 1446 432 1393 456 1360"/></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="1016"
                    VPOS="81"
                    WIDTH="63"
@@ -362,15 +352,9 @@
                    TAGREFS="BT5847">
           <Shape><Polygon POINTS="1062 81 1079 138 1016 134 1018 100 1031 81"/></Shape>
           
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
           
           <TextLine ID="eSc_line_83283fd1"
-                    TAGREFS="LT2"
+                    TAGREFS="LT2006"
                     BASELINE="1023 117 1072 117" 
                     HPOS="1022"
                     VPOS="61"
@@ -386,15 +370,25 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="432"
+                   VPOS="1360"
+                   WIDTH="113"
+                   HEIGHT="86"
+                   ID="eSc_textblock_22b3d572"
+                   TAGREFS="BT5847">
+          <Shape><Polygon POINTS="516 1364 545 1404 531 1442 439 1446 432 1393 456 1360"/></Shape>
+          
           
           <TextLine ID="eSc_line_06824941"
-                    
+                    TAGREFS="LT2006"
                     BASELINE="439 1429 530 1427" 
                     HPOS="437"
                     VPOS="1357"
                     WIDTH="91"
                     HEIGHT="101">
-            <Shape><Polygon POINTS="438 1428 440 1445 466 1438 484 1452 490 1457 492 1457 493 1457 495 1458 527 1458 528 1426 524 1357 437 1361 438 1428"/></Shape>
+            <Shape><Polygon POINTS="440 1445 466 1438 484 1452 490 1457 492 1457 493 1457 495 1458 527 1458 528 1426 524 1357 437 1361 438 1428"/></Shape>
 	    <String CONTENT="50"
                     HPOS="437"
                     VPOS="1357"
@@ -405,6 +399,8 @@
 
           
         </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>
