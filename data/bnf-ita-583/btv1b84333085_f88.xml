@@ -680,12 +680,12 @@
                    WIDTH="247"
                    HEIGHT="203"
                    ID="eSc_textblock_2fd67dd7"
-                   TAGREFS="BT5881">
+                   TAGREFS="BT5877">
           <Shape><Polygon POINTS="1746 169 1746 372 1993 372 1993 169"/></Shape>
           
           
           <TextLine ID="eSc_line_48dab61b"
-                    TAGREFS="LT2016"
+                    TAGREFS="LT2014"
                     BASELINE="1800 332 1958 325" 
                     HPOS="1790"
                     VPOS="177"
@@ -1322,16 +1322,6 @@
                     HEIGHT="127"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1948"
-                   VPOS="3585"
-                   WIDTH="7"
-                   HEIGHT="8"
-                   ID="eSc_textblock_19c40bdb"
-                   TAGREFS="BT7650">
-          <Shape><Polygon POINTS="1955 3593 1948 3593 1948 3585 1955 3588"/></Shape>
           
         </TextBlock>
         

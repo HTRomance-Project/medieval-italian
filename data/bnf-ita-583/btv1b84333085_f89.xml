@@ -708,12 +708,12 @@
                    WIDTH="346"
                    HEIGHT="130"
                    ID="eSc_textblock_0877d971"
-                   TAGREFS="BT5881">
+                   TAGREFS="BT5877">
           <Shape><Polygon POINTS="1606 225 1616 315 1585 345 1291 345 1270 256 1347 215"/></Shape>
           
           
           <TextLine ID="eSc_line_6479619c"
-                    TAGREFS="LT2016"
+                    TAGREFS="LT2014"
                     BASELINE="1293 309 1603 309" 
                     HPOS="1293"
                     VPOS="227"
