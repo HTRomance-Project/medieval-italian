@@ -749,13 +749,13 @@
           
           
           <TextLine ID="eSc_line_9b16d2f6"
-                    TAGREFS="LT2"
+                    TAGREFS="LT1866"
                     BASELINE="2921 284 2996 281" 
                     HPOS="2913"
                     VPOS="263"
                     WIDTH="79"
                     HEIGHT="68">
-            <Shape><Polygon POINTS="2951 275 2913 275 2917 282 2917 305 2985 331 2992 278 2985 263 2951 275"/></Shape>
+            <Shape><Polygon POINTS="2913 275 2917 282 2917 305 2985 331 2992 278 2985 263 2951 275"/></Shape>
 	    <String CONTENT="2"
                     HPOS="2913"
                     VPOS="263"
