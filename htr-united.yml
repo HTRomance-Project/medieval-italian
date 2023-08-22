@@ -183,7 +183,7 @@ script-type: only-manuscript
 time:
   notAfter: '1499'
   notBefore: '1100'
-title: HTRomance
+title: HTRomance, Medieval Italian corpus of ground-truth for Handwritten Text Recognition and Layout Segmentation
 url: https://github.com/HTRomance-Project/medieval-italian
 volume:
 - count: 84665
