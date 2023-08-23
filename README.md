@@ -13,7 +13,7 @@ This ground-truth dataset has been carefully built around the idea of having gen
 Data follow the Segmonto guidelines.
 
 > [!NOTE]
-> The repository contains two XML files per image. The one suffixed with `.chocomufin.xml` are normalized in order to be compliant with other datasets following the same guidelines. The others are more specific to this repository, we do not recommend using them.
+> The repository contains two XML files per image. The ones suffixed with `.chocomufin.xml` are normalized in order to be compliant with other datasets following the same guidelines. The others are more specific to this repository. We recommend using the normalized documents.
 
 ## Credits
 
