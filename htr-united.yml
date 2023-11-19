@@ -148,7 +148,7 @@ language:
 - ita
 - vec
 license:
-- name: CC-BY 4.0
+  name: CC-BY 4.0
   url: https://creativecommons.org/licenses/by/4.0/
 production-software: eScriptorium + Kraken
 project-name: HTRomance
