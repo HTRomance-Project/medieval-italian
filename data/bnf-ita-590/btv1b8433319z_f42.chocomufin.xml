@@ -8,8 +8,8 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT7565" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT5823" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT5822" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT5821" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT5820" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT5819" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT5818" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT5817" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT5816" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT5815" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT5814" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT5813" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT5812" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT5825" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT5824" LABEL="TableZone" DESCRIPTION="block type TableZone"/>
-    <OtherTag ID="LT2129" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT2001" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT2000" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1999" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1998" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="BT5824" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT5825" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT5812" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT5813" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT5814" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT5815" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT5816" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT5817" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT5818" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT5819" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT5820" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT5821" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT5822" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT5823" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT7565" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT1998" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT1999" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT2000" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT2001" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT2129" LABEL="default" DESCRIPTION="line type default"/>
   </Tags>
   
   <Layout>
@@ -22,7 +22,7 @@
           
           <TextLine ID="eSc_line_90b4f973" TAGREFS="LT1998" BASELINE="306 677 812 665" HPOS="303" VPOS="607" WIDTH="509" HEIGHT="86">
             <Shape><Polygon POINTS="726 607 723 607 652 619 599 632 513 632 501 619 496 614 493 614 490 614 440 614 437 614 435 614 432 614 432 617 427 619 412 632 303 619 306 677 306 693 812 688 812 665 804 622 759 624 751 619 731 607 728 607"/></Shape>
-	    <String CONTENT="Cue, che io era ladata" HPOS="303" VPOS="607" WIDTH="509" HEIGHT="86" WC="0.932189320976084"/>
+	    <String CONTENT="Cioe, che io era lodata" HPOS="303" VPOS="607" WIDTH="509" HEIGHT="86"/>
           </TextLine>
 
           
@@ -34,16 +34,16 @@
 
           
           
-          <TextLine ID="eSc_line_1572747f" TAGREFS="LT1998" BASELINE="316 796 816 789" HPOS="311" VPOS="736" WIDTH="501" HEIGHT="98">
-            <Shape><Polygon POINTS="315 834 812 815 812 785 804 739 311 736 315 792"/></Shape>
-	    <String CONTENT="⁊ Ex ch io aura potati il nro amore ⁊ dextera mano" HPOS="311" VPOS="736" WIDTH="501" HEIGHT="98" WC="0.952942945957184"/>
+          <TextLine ID="eSc_line_1572747f" TAGREFS="LT1998" BASELINE="316 796 837 793" HPOS="315" VPOS="732" WIDTH="520" HEIGHT="106">
+            <Shape><Polygon POINTS="315 792 315 838 835 823 835 792 835 736 315 732 315 792"/></Shape>
+	    <String CONTENT="⁊ fede che io auea poͬtata" HPOS="315" VPOS="732" WIDTH="520" HEIGHT="106"/>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_0abe9a43" TAGREFS="LT1998" BASELINE="311 860 809 854" HPOS="308" VPOS="809" WIDTH="501" HEIGHT="83">
             <Shape><Polygon POINTS="311 880 556 892 559 892 561 892 589 880 809 880 809 854 804 824 650 809 647 809 645 809 642 809 642 811 630 824 308 824 311 860"/></Shape>
-	    <String CONTENT="almio marito s icheo." HPOS="308" VPOS="809" WIDTH="501" HEIGHT="83" WC="0.981939772764842"/>
+	    <String CONTENT="almio marito sicheo." HPOS="308" VPOS="809" WIDTH="501" HEIGHT="83"/>
           </TextLine>
 
           
@@ -62,7 +62,7 @@
           
           <TextLine ID="eSc_line_1a031f30" TAGREFS="LT1998" BASELINE="842 498 1877 505" HPOS="840" VPOS="430" WIDTH="1037" HEIGHT="118">
             <Shape><Polygon POINTS="840 516 900 536 903 536 906 536 1146 521 1181 546 1184 546 1186 546 1189 548 1295 548 1295 546 1298 546 1300 546 1300 543 1321 526 1389 523 1412 543 1412 546 1414 546 1417 546 1531 548 1533 548 1660 526 1829 548 1832 548 1834 548 1837 548 1875 523 1877 505 1875 452 1794 452 1791 450 1766 435 1764 435 1761 435 1758 435 1637 450 1624 450 1617 450 1561 435 1559 435 1556 435 1553 435 1551 435 1531 447 1460 432 1457 432 1455 432 1422 447 1422 450 1346 450 1343 447 1318 432 1316 432 1313 432 1310 432 1105 445 1100 445 1098 445 1052 430 1050 430 1047 430 842 442 842 498"/></Shape>
-	    <String CONTENT="fauella. O ꝑfido sꝑasti infign" HPOS="840" VPOS="430" WIDTH="1037" HEIGHT="118"/>
+	    <String CONTENT="fauella. O ꝑfido sꝑasti insign" HPOS="840" VPOS="430" WIDTH="1037" HEIGHT="118"/>
           </TextLine>
 
           
@@ -355,7 +355,7 @@
           
           <TextLine ID="eSc_line_b07baefb" TAGREFS="LT1998" BASELINE="2014 510 2988 521" HPOS="2012" VPOS="445" WIDTH="976" HEIGHT="108">
             <Shape><Polygon POINTS="2012 523 2125 526 2151 546 2153 546 2156 546 2158 546 2325 531 2333 531 2394 531 2497 533 2533 551 2535 551 2538 553 2644 553 2644 551 2647 551 2649 551 2670 536 2672 536 2692 536 2885 553 2887 553 2986 541 2988 521 2988 465 2935 450 2933 450 2930 450 2796 460 2768 462 2700 460 2434 445 2432 445 2014 447 2014 510"/></Shape>
-	    <String CONTENT="re. qui e lamia patria. Et" HPOS="2012" VPOS="445" WIDTH="976" HEIGHT="108" WC="0.99004606787975"/>
+	    <String CONTENT="re. qui e lamia patria. Et" HPOS="2012" VPOS="445" WIDTH="976" HEIGHT="108" WC="0.9900460678797501"/>
           </TextLine>
 
           
@@ -481,7 +481,7 @@
           
           <TextLine ID="eSc_line_627aa84a" TAGREFS="LT1998" BASELINE="2012 2208 2745 2213" HPOS="2009" VPOS="2132" WIDTH="736" HEIGHT="119">
             <Shape><Polygon POINTS="2009 2228 2275 2246 2277 2246 2361 2233 2396 2248 2399 2248 2401 2251 2702 2251 2702 2248 2705 2248 2743 2233 2745 2213 2743 2165 2642 2165 2639 2160 2624 2147 2624 2144 2621 2144 2619 2144 2616 2144 2508 2144 2487 2132 2485 2132 2482 2132 2249 2132 2247 2132 2244 2132 2242 2132 2242 2134 2229 2144 2217 2157 2151 2160 2012 2137 2012 2208"/></Shape>
-	    <String CONTENT="di mia uolũtade" HPOS="2009" VPOS="2132" WIDTH="736" HEIGHT="119" WC="0.986637689173222"/>
+	    <String CONTENT="di mia uolũtade" HPOS="2009" VPOS="2132" WIDTH="736" HEIGHT="119" WC="0.9866376891732216"/>
           </TextLine>
 
           
@@ -502,7 +502,7 @@
           
           <TextLine ID="eSc_line_b152d914" TAGREFS="LT1998" BASELINE="2029 2481 2999 2481" HPOS="2029" VPOS="2397" WIDTH="970" HEIGHT="127">
             <Shape><Polygon POINTS="2029 2509 2141 2501 2158 2509 2186 2521 2189 2521 2191 2524 2348 2524 2348 2521 2351 2521 2353 2521 2373 2506 2384 2501 2581 2501 2589 2504 2616 2521 2619 2521 2621 2521 2624 2524 2875 2524 2875 2521 2877 2521 2880 2521 2880 2519 2900 2501 2999 2501 2999 2481 2994 2397 2948 2418 2761 2418 2702 2400 2695 2397 2692 2397 2690 2397 2670 2400 2553 2415 2029 2405 2029 2481"/></Shape>
-	    <String CONTENT="della diuina madre.ne del" HPOS="2029" VPOS="2397" WIDTH="970" HEIGHT="127" WC="0.984973926544189"/>
+	    <String CONTENT="della diuina madre.ne del" HPOS="2029" VPOS="2397" WIDTH="970" HEIGHT="127" WC="0.9849739265441895"/>
           </TextLine>
 
           
@@ -610,7 +610,7 @@
           
           <TextLine ID="eSc_line_d11e4758" TAGREFS="LT1998" BASELINE="435 2238 718 2246" HPOS="432" VPOS="2205" WIDTH="286" HEIGHT="71">
             <Shape><Polygon POINTS="432 2258 528 2276 531 2276 716 2266 718 2246 716 2213 435 2205 435 2238"/></Shape>
-	    <String CONTENT="tuo amore" HPOS="432" VPOS="2205" WIDTH="286" HEIGHT="71" WC="0.999645166926914"/>
+	    <String CONTENT="tuo amore" HPOS="432" VPOS="2205" WIDTH="286" HEIGHT="71" WC="0.9996451669269137"/>
           </TextLine>
 
           
@@ -629,7 +629,7 @@
           
           <TextLine ID="eSc_line_311fdcd0" TAGREFS="LT1998" BASELINE="349 2719 812 2711" HPOS="346" VPOS="2663" WIDTH="466" HEIGHT="111">
             <Shape><Polygon POINTS="349 2746 427 2744 435 2749 463 2772 465 2772 468 2772 612 2774 615 2774 617 2774 675 2741 678 2739 680 2741 713 2762 716 2762 718 2762 721 2762 723 2762 812 2736 812 2711 807 2676 701 2663 698 2663 695 2663 693 2663 678 2676 592 2666 589 2666 468 2681 455 2671 455 2668 453 2668 450 2668 447 2668 445 2668 442 2668 427 2678 415 2668 412 2668 410 2668 407 2668 404 2668 346 2683 349 2719"/></Shape>
-	    <String CONTENT="era tempo di neno" HPOS="346" VPOS="2663" WIDTH="466" HEIGHT="111" WC="0.979195174048929"/>
+	    <String CONTENT="era tempo di neno" HPOS="346" VPOS="2663" WIDTH="466" HEIGHT="111" WC="0.9791951740489286"/>
           </TextLine>
 
           
@@ -648,7 +648,7 @@
           
           <TextLine ID="eSc_line_209f97db" TAGREFS="LT1998" BASELINE="2994 2220 3188 2228" HPOS="2991" VPOS="2180" WIDTH="197" HEIGHT="83">
             <Shape><Polygon POINTS="2991 2256 3183 2263 3188 2228 3188 2187 2994 2180 2994 2220"/></Shape>
-	    <String CONTENT="damto ame" HPOS="2991" VPOS="2180" WIDTH="197" HEIGHT="83" WC="0.918959193759494"/>
+	    <String CONTENT="damto ame" HPOS="2991" VPOS="2180" WIDTH="197" HEIGHT="83" WC="0.9189591937594943"/>
           </TextLine>
 
           

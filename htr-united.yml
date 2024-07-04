@@ -163,7 +163,7 @@ title: HTRomance, Medieval Italian corpus of ground-truth for Handwritten Text R
   and Layout Segmentation
 url: https://github.com/HTRomance-Project/medieval-italian
 volume:
-- count: 84383
+- count: 84366
   metric: characters
 - count: 60
   metric: files
