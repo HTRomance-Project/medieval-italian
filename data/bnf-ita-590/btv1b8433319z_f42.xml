@@ -11,8 +11,8 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT7565" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT5823" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT5822" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT5821" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT5820" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT5819" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT5818" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT5817" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT5816" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT5815" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT5814" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT5813" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT5812" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT5825" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT5824" LABEL="TableZone" DESCRIPTION="block type TableZone"/>
-    <OtherTag ID="LT2129" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT2001" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT2000" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1999" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1998" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="BT5824" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT5825" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT5812" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT5813" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT5814" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT5815" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT5816" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT5817" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT5818" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT5819" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT5820" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT5821" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT5822" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT5823" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT7565" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT1998" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT1999" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT2000" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT2001" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT2129" LABEL="default" DESCRIPTION="line type default"/>
   </Tags>
   
   <Layout>
@@ -42,12 +42,11 @@
                     WIDTH="509"
                     HEIGHT="86">
             <Shape><Polygon POINTS="726 607 723 607 652 619 599 632 513 632 501 619 496 614 493 614 490 614 440 614 437 614 435 614 432 614 432 617 427 619 412 632 303 619 306 677 306 693 812 688 812 665 804 622 759 624 751 619 731 607 728 607"/></Shape>
-	    <String CONTENT="Cue, che io era ladata"
+	    <String CONTENT="Cioe, che io era lodata"
                     HPOS="303"
                     VPOS="607"
                     WIDTH="509"
-                    HEIGHT="86"
-                    WC="0.932189320976084"></String>
+                    HEIGHT="86"></String>
           </TextLine>
 
           
@@ -72,18 +71,17 @@
           
           <TextLine ID="eSc_line_1572747f"
                     TAGREFS="LT1998"
-                    BASELINE="316 796 816 789" 
-                    HPOS="311"
-                    VPOS="736"
-                    WIDTH="501"
-                    HEIGHT="98">
-            <Shape><Polygon POINTS="315 834 812 815 812 785 804 739 311 736 315 792"/></Shape>
-	    <String CONTENT="⁊ Ex ch io aura potati il nro amore ⁊ dextera mano"
-                    HPOS="311"
-                    VPOS="736"
-                    WIDTH="501"
-                    HEIGHT="98"
-                    WC="0.952942945957184"></String>
+                    BASELINE="316 796 837 793" 
+                    HPOS="315"
+                    VPOS="732"
+                    WIDTH="520"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="315 792 315 838 835 823 835 792 835 736 315 732 315 792"/></Shape>
+	    <String CONTENT="⁊ fede che io auea poͬtata"
+                    HPOS="315"
+                    VPOS="732"
+                    WIDTH="520"
+                    HEIGHT="106"></String>
           </TextLine>
 
           
@@ -96,12 +94,11 @@
                     WIDTH="501"
                     HEIGHT="83">
             <Shape><Polygon POINTS="311 880 556 892 559 892 561 892 589 880 809 880 809 854 804 824 650 809 647 809 645 809 642 809 642 811 630 824 308 824 311 860"/></Shape>
-	    <String CONTENT="almio marito s icheo."
+	    <String CONTENT="almio marito sicheo."
                     HPOS="308"
                     VPOS="809"
                     WIDTH="501"
-                    HEIGHT="83"
-                    WC="0.981939772764842"></String>
+                    HEIGHT="83"></String>
           </TextLine>
 
           
@@ -141,7 +138,7 @@
                     WIDTH="1037"
                     HEIGHT="118">
             <Shape><Polygon POINTS="840 516 900 536 903 536 906 536 1146 521 1181 546 1184 546 1186 546 1189 548 1295 548 1295 546 1298 546 1300 546 1300 543 1321 526 1389 523 1412 543 1412 546 1414 546 1417 546 1531 548 1533 548 1660 526 1829 548 1832 548 1834 548 1837 548 1875 523 1877 505 1875 452 1794 452 1791 450 1766 435 1764 435 1761 435 1758 435 1637 450 1624 450 1617 450 1561 435 1559 435 1556 435 1553 435 1551 435 1531 447 1460 432 1457 432 1455 432 1422 447 1422 450 1346 450 1343 447 1318 432 1316 432 1313 432 1310 432 1105 445 1100 445 1098 445 1052 430 1050 430 1047 430 842 442 842 498"/></Shape>
-	    <String CONTENT="fauella. O ꝑfido ſꝑaſti infign"
+	    <String CONTENT="fauella. O ꝑfido ſꝑaſti inſign"
                     HPOS="840"
                     VPOS="430"
                     WIDTH="1037"
@@ -849,7 +846,7 @@
                     VPOS="445"
                     WIDTH="976"
                     HEIGHT="108"
-                    WC="0.99004606787975"></String>
+                    WC="0.9900460678797501"></String>
           </TextLine>
 
           
@@ -1156,7 +1153,7 @@
                     VPOS="2132"
                     WIDTH="736"
                     HEIGHT="119"
-                    WC="0.986637689173222"></String>
+                    WC="0.9866376891732216"></String>
           </TextLine>
 
           
@@ -1208,7 +1205,7 @@
                     VPOS="2397"
                     WIDTH="970"
                     HEIGHT="127"
-                    WC="0.984973926544189"></String>
+                    WC="0.9849739265441895"></String>
           </TextLine>
 
           
@@ -1467,7 +1464,7 @@
                     VPOS="2205"
                     WIDTH="286"
                     HEIGHT="71"
-                    WC="0.999645166926914"></String>
+                    WC="0.9996451669269137"></String>
           </TextLine>
 
           
@@ -1512,7 +1509,7 @@
                     VPOS="2663"
                     WIDTH="466"
                     HEIGHT="111"
-                    WC="0.979195174048929"></String>
+                    WC="0.9791951740489286"></String>
           </TextLine>
 
           
@@ -1557,7 +1554,7 @@
                     VPOS="2180"
                     WIDTH="197"
                     HEIGHT="83"
-                    WC="0.918959193759494"></String>
+                    WC="0.9189591937594943"></String>
           </TextLine>
 
           
