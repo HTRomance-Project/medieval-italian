@@ -1,6 +1,6 @@
 HTRomance, Medieval Italian corpus of ground-truth for Handwritten Text Recognition and Layout Segmentation
 =====================
-![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
+![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg) [![HTR United Workflow](https://github.com/HTRomance-Project/medieval-italian/actions/workflows/htr-united-workflows.yml/badge.svg)](https://github.com/HTRomance-Project/medieval-italian/actions/workflows/htr-united-workflows.yml)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8256728.svg)](https://doi.org/10.5281/zenodo.8256728)
 
