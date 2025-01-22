@@ -27,28 +27,26 @@ Data follow the Segmonto guidelines.
 
 ## Transcription guidelines
 
-The transcription guidelines are described in a paper available on [HAL](https://hal-enc.archives-ouvertes.fr/hal-03828353) and published at the Journal for Open Humanities Data. It provides specific details about the selection process, the transcription methods and choices, as well as details about output (mainly the [Generic CREMMA Model for Medieval Manuscripts (Latin and Old French)](https://zenodo.org/record/7234166#.Y7f69afMJhE) for [Kraken](https://kraken.re))
+The transcription guidelines are described in a paper available on [HAL](https://hal-enc.archives-ouvertes.fr/hal-03828353) and published in the Journal for Open Humanities Data. The paper provides specific details about the selection process, the transcription methods and choices, as well as details about the output (mainly the [Generic CREMMA Model for Medieval Manuscripts (Latin and Old French)](https://zenodo.org/record/7234166#.Y7f69afMJhE) for [Kraken](https://kraken.re))
 
 ## Data
 
-ALTO and images can be found in the directory data. Each subfolder of data corresponds to a 
-single manuscript, identified by its bookshelf.
+ALTO and images can be found in the directory called `data/`. Each subfolder of `data/` corresponds to a 
+single manuscript, identified by its shelfmark.
 
 <!-- BeginTable -->
 
-| Shelfmark                                                        | Folder                                      | Biblissima   | Range   | Type   |   Century | Color   |   Main Zones |   Lines |   Characters | Genre        | Content                            |
-|------------------------------------------------------------------|---------------------------------------------|--------------|---------|--------|-----------|---------|--------------|---------|--------------|--------------|------------------------------------|
-| [BnF Ita 912](https://gallica.bnf.fr/ark:/12148/btv1b52501692k)  | [🔗](../medieval-italian/data/bnf-ita-912)  |              | 2r-6v   | prose  |        14 | ✓       |            5 |      94 |         1613 | prose        | Cataloghi di prezzi delle merci    |
-| [BnF Ita 783](https://gallica.bnf.fr/ark:/12148/btv1b52515037r)  | [🔗](../medieval-italian/data/bnf-ita-783)  |              | 12v-17r | prose  |        14 | ✓       |            5 |     157 |         6398 | prose        | Dandolo, Cronica                   |
-| [BnF Ita 434](https://gallica.bnf.fr/ark:/12148/btv1b84363869)   | [🔗](../medieval-italian/data/bnf-ita-434)  |              | 1v-3v   | prose  |        14 | ✓       |            5 |     185 |         8576 | prose        | Marco Polo, Il Milione             |
-| [BnF Ita 590](https://gallica.bnf.fr/ark:/12148/btv1b8433319z)   | [🔗](../medieval-italian/data/bnf-ita-590)  |              | 16r-18r | prose  |        14 | ✓       |           10 |     454 |         9377 | poésie+prose | Virgilio, Eneide (volgarizzamento) |
-| [BnF Ita 79](https://gallica.bnf.fr/ark:/12148/btv1b52507492w)   | [🔗](../medieval-italian/data/bnf-ita-79)   |              | 54r-56r | vers   |        14 | ✓       |           11 |     423 |        11773 | poésie       | Dante, La divina commedia          |
-| [BnF Ita 481](https://gallica.bnf.fr/ark:/12148/btv1b84268148)   | [🔗](../medieval-italian/data/bnf-ita-481)  |              | 41r-43r | prose  |        14 | ✓       |           10 |     512 |        15667 | prose        | Boccaccio, Filocolo                |
-| [BnF Ita 594](https://gallica.bnf.fr/ark:/12148/btv1b8433322f)   | [🔗](../medieval-italian/data/bnf-ita-594)  |              | 25r-29v | vers   |        15 | ✓       |            5 |     244 |         5132 | poésie       | El Sinibaldo                       |
-| [BnF Ita 70](https://gallica.bnf.fr/ark:/12148/btv1b8426803g)    | [🔗](../medieval-italian/data/bnf-ita-70)   |              | 81r-85v | vers   |        15 | ✓       |            7 |     338 |         7361 | poésie       | Dante, La divina commedia          |
-| [BnF Ita 583](https://gallica.bnf.fr/ark:/12148/btv1b84333085)   | [🔗](../medieval-italian/data/bnf-ita-583)  |              | 41r-43r | vers   |        15 | ✓       |           10 |     373 |         9909 | poésie       | Boccaccio, Teseida                 |
-| [BnF Ita 1534](https://gallica.bnf.fr/ark:/12148/btv1b52504356m) | [🔗](../medieval-italian/data/bnf-ita-1534) |              | 91-100  | vers   |        16 | ✓       |           10 |     181 |         4179 | poésie       | G.B. Strozzi, Rime                 |
-| [BnF Ita 820](https://gallica.bnf.fr/ark:/12148/btv1b52500670h)  | [🔗](../medieval-italian/data/bnf-ita-820)  |              | 2r-6v   | prose  |        16 | ✓       |            5 |     125 |         4680 | prose        | Vita di Cola di Rienzo (et alia)   |
+| Shelfmark                                                         | Links                  | Range   | Type   |   Century | Color   |   Pages |   Main Zones |   Lines |   Characters | Genre   | Content                            |
+|-------------------------------------------------------------------|------------------------|---------|--------|-----------|---------|---------|--------------|---------|--------------|---------|------------------------------------|
+| [BnF, it. 481](https://gallica.bnf.fr/ark:/12148/btv1b84268148)   | [📁](data/bnf-it-481)  | 41r-43r | prose  |        14 | ✓       |       5 |           10 |     512 |        15667 |         | Boccaccio, Filocolo                |
+| [BnF, it. 79](https://gallica.bnf.fr/ark:/12148/btv1b52507492w)   | [📁](data/bnf-it-79)   | 54r-56r | vers   |        14 | ✓       |       5 |           11 |     423 |        11773 |         | Dante, La divina commedia          |
+| [BnF, it. 590](https://gallica.bnf.fr/ark:/12148/btv1b8433319z)   | [📁](data/bnf-it-590)  | 16r-18r | prose  |        14 | ✓       |       5 |           10 |     454 |         9360 |         | Virgilio, Eneide (volgarizzamento) |
+| [BnF, it. 434](https://gallica.bnf.fr/ark:/12148/btv1b84363869)   | [📁](data/bnf-it-434)  | 1v-3v   | prose  |        14 | ✓       |       5 |            5 |     185 |         8576 |         | Marco Polo, Il Milione             |
+| [BnF, it. 594](https://gallica.bnf.fr/ark:/12148/btv1b8433322f)   | [📁](data/bnf-it-594)  | 25r-29v | vers   |        15 | ✓       |       5 |            5 |     184 |         5132 |         | El Sinibaldo                       |
+| [BnF, it. 70](https://gallica.bnf.fr/ark:/12148/btv1b8426803g)    | [📁](data/bnf-it-70)   | 81r-85v | vers   |        15 | ✓       |       5 |            7 |     257 |         7359 |         | Dante, La divina commedia          |
+| [BnF, it. 583](https://gallica.bnf.fr/ark:/12148/btv1b84333085)   | [📁](data/bnf-it-583)  | 41r-43r | vers   |        15 | ✓       |       5 |           10 |     373 |         9909 |         | Boccaccio, Teseida                 |
+| [BnF, it. 820](https://gallica.bnf.fr/ark:/12148/btv1b52500670h)  | [📁](data/bnf-it-820)  | 2r-6v   | prose  |        16 | ✓       |       5 |            5 |     125 |         4680 |         | Vita di Cola di Rienzo (et alia)   |
+| [BnF, it. 1534](https://gallica.bnf.fr/ark:/12148/btv1b52504356m) | [📁](data/bnf-it-1534) | 91-100  | vers   |        16 | ✓       |      10 |           10 |     182 |         4180 |         | G.B. Strozzi, Rime                 |
 
 <!-- EndTable -->
 
@@ -56,29 +54,33 @@ single manuscript, identified by its bookshelf.
 
 <!-- StartMetric -->
 
+### Total number of pages
+
+50
+
 ### Regions
 
-- DropCapitalZone (192)
-- MainZone (83)
+- MainZone (73)
 - MarginTextZone (30)
-- NumberingZone (40)
+- NumberingZone (34)
 - GraphicZone (1)
+- DropCapitalZone (41)
 - QuireMarksZone (2)
 - RunningTitleZone (5)
 
 ### Lines
 
-- DropCapitalLine (244)
-- DefaultLine (2814)
-- HeadingLine (26)
-- InterlinearLine (2)
+- DefaultLine (2601)
+- DropCapitalLine (64)
+- InterlinearLine (3)
+- HeadingLine (27)
 
 <!-- EndMetric -->
 
 ## Funding
 
 This project was funded by the Bibliothèque nationale de France through the 2022 project calls from
-[Datalab](https://www.bnf.fr/fr/bnf-datalab).
+[Datalab](https://www.bnf.fr/fr/bnf-datalab) for 2023.
 
 ## Cite the project
 
@@ -94,5 +96,4 @@ url = {https://htromance-project.github.io/}
 ## Infrastructure
 
 This project relied on the [CREMMA infrastructure](https://www.dim-map.fr/projets-soutenus/cremma/).
-
 
