@@ -42,6 +42,8 @@ single manuscript, identified by its shelfmark.
 | [BnF, it. 79](https://gallica.bnf.fr/ark:/12148/btv1b52507492w)   | [📁](data/bnf-it-79)   | 54r-56r | vers   |        14 | ✓       |       5 |           11 |     423 |        11773 |         | Dante, La divina commedia          |
 | [BnF, it. 590](https://gallica.bnf.fr/ark:/12148/btv1b8433319z)   | [📁](data/bnf-it-590)  | 16r-18r | prose  |        14 | ✓       |       5 |           10 |     454 |         9360 |         | Virgilio, Eneide (volgarizzamento) |
 | [BnF, it. 434](https://gallica.bnf.fr/ark:/12148/btv1b84363869)   | [📁](data/bnf-it-434)  | 1v-3v   | prose  |        14 | ✓       |       5 |            5 |     185 |         8576 |         | Marco Polo, Il Milione             |
+| [BnF, it. 912](https://gallica.bnf.fr/ark:/12148/btv1b52501692k)  | [📁](data/bnf-it-912)  | 2r-6v   | prose  |        14 | ✓       |       6 |            6 |     104 |         1705 |         | Cataloghi di prezzi delle merci    |
+| [BnF, it. 783](https://gallica.bnf.fr/ark:/12148/btv1b52515037r)  | [📁](data/bnf-it-783)  | 12v-17r | prose  |        14 | ✓       |       5 |            5 |     157 |         6398 |         | Dandolo, Cronica                   |
 | [BnF, it. 594](https://gallica.bnf.fr/ark:/12148/btv1b8433322f)   | [📁](data/bnf-it-594)  | 25r-29v | vers   |        15 | ✓       |       5 |            5 |     184 |         5132 |         | El Sinibaldo                       |
 | [BnF, it. 70](https://gallica.bnf.fr/ark:/12148/btv1b8426803g)    | [📁](data/bnf-it-70)   | 81r-85v | vers   |        15 | ✓       |       5 |            7 |     257 |         7359 |         | Dante, La divina commedia          |
 | [BnF, it. 583](https://gallica.bnf.fr/ark:/12148/btv1b84333085)   | [📁](data/bnf-it-583)  | 41r-43r | vers   |        15 | ✓       |       5 |           10 |     373 |         9909 |         | Boccaccio, Teseida                 |
@@ -56,22 +58,22 @@ single manuscript, identified by its shelfmark.
 
 ### Total number of pages
 
-50
+61
 
 ### Regions
 
-- MainZone (73)
+- MainZone (84)
 - MarginTextZone (30)
-- NumberingZone (34)
+- NumberingZone (40)
 - GraphicZone (1)
-- DropCapitalZone (41)
+- DropCapitalZone (51)
 - QuireMarksZone (2)
 - RunningTitleZone (5)
 
 ### Lines
 
-- DefaultLine (2601)
-- DropCapitalLine (64)
+- DefaultLine (2823)
+- DropCapitalLine (103)
 - InterlinearLine (3)
 - HeadingLine (27)
 
