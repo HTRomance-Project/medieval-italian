@@ -1,0 +1,99 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>btv1b52501692k_f14.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT5840" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT5841" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT5842" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT5843" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT5844" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT5845" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT5846" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT5847" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT5848" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT5849" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT5850" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT5851" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT5852" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT5853" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT7516" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/><OtherTag ID="LT2006" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT2007" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT2008" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT2009" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT2521" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1227" HEIGHT="1833" PHYSICAL_IMG_NR="5" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1227" HEIGHT="1833">
+        
+        <TextBlock HPOS="383" VPOS="187" WIDTH="382" HEIGHT="630" ID="eSc_textblock_1aae067c" TAGREFS="BT5844">
+          <Shape><Polygon POINTS="492 195 521 244 671 260 691 276 687 312 652 324 626 362 634 398 606 468 622 548 683 574 691 671 713 688 761 692 765 744 713 772 691 809 403 817 387 805 383 228 407 187"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_93caba38" TAGREFS="LT2006" BASELINE="411 236 485 238" HPOS="407" VPOS="187" WIDTH="77" HEIGHT="57">
+            <Shape><Polygon POINTS="409 235 407 241 481 244 484 236 482 201 423 187 409 187"/></Shape>
+	    <String CONTENT="Uini" HPOS="407" VPOS="187" WIDTH="77" HEIGHT="57"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dc0c3a18" TAGREFS="LT2006" BASELINE="405 303 675 305" HPOS="403" VPOS="248" WIDTH="270" HEIGHT="71">
+            <Shape><Polygon POINTS="649 258 643 256 602 261 592 252 588 252 573 248 563 248 562 248 560 248 551 252 521 261 498 250 495 248 493 248 492 248 490 248 488 248 487 250 472 261 432 253 430 253 429 253 427 253 420 259 407 248 404 302 403 311 415 319 417 319 418 319 420 319 672 313 673 303 670 261 664 259"/></Shape>
+	    <String CONTENT="Usanse di tome" HPOS="403" VPOS="248" WIDTH="270" HEIGHT="71"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_861c619c" TAGREFS="LT2006" BASELINE="411 365 496 364" HPOS="409" VPOS="313" WIDTH="86" HEIGHT="73">
+            <Shape><Polygon POINTS="409 375 453 371 466 381 467 383 467 384 469 384 470 384 472 386 495 386 495 363 493 313 409 316 409 363"/></Shape>
+	    <String CONTENT="Uerzi" HPOS="409" VPOS="313" WIDTH="86" HEIGHT="73"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_69929e41" TAGREFS="LT2006" BASELINE="409 433 611 433" HPOS="407" VPOS="372" WIDTH="202" HEIGHT="81">
+            <Shape><Polygon POINTS="407 442 420 453 421 453 423 453 424 453 476 452 478 452 479 452 479 450 490 442 505 453 507 453 508 453 510 453 511 453 513 453 527 444 571 453 573 453 574 453 576 453 576 452 588 441 609 441 609 432 609 380 586 372 585 372 583 372 582 372 556 380 547 381 537 380 516 374 514 374 513 374 511 374 498 378 487 381 407 377 407 432"/></Shape>
+	    <String CONTENT="Usanse ha" HPOS="407" VPOS="372" WIDTH="202" HEIGHT="81"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_23cb1f99" TAGREFS="LT2006" BASELINE="454 478 539 480" HPOS="453" VPOS="443" WIDTH="86" HEIGHT="62">
+            <Shape><Polygon POINTS="453 493 467 504 468 504 469 504 470 505 490 505 490 504 491 504 492 504 492 503 503 493 537 493 539 480 539 456 497 443 496 443 495 443 494 443 454 454 454 478"/></Shape>
+	    <String CONTENT="afari" HPOS="453" VPOS="443" WIDTH="86" HEIGHT="62" WC="0.9993877649307251"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_00300fdf" TAGREFS="LT2006" BASELINE="404 547 575 550" HPOS="401" VPOS="496" WIDTH="173" HEIGHT="73">
+            <Shape><Polygon POINTS="401 557 429 557 435 560 453 569 455 569 456 569 484 563 508 559 571 569 574 549 573 499 507 507 403 496 403 546"/></Shape>
+	    <String CONTENT="Zafarani" HPOS="401" VPOS="496" WIDTH="173" HEIGHT="73"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_206f022a" TAGREFS="LT2006" BASELINE="404 616 670 619" HPOS="401" VPOS="556" WIDTH="268" HEIGHT="65">
+            <Shape><Polygon POINTS="652 560 537 574 505 557 504 557 502 557 501 557 499 557 476 574 441 574 427 559 427 557 426 557 424 557 403 556 403 615 401 620 666 621 669 618 667 566 663 566"/></Shape>
+	    <String CONTENT="Zucaro candi" HPOS="401" VPOS="556" WIDTH="268" HEIGHT="65"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a3d20ce6" TAGREFS="LT2006" BASELINE="409 667 675 667" HPOS="409" VPOS="625" WIDTH="266" HEIGHT="63">
+            <Shape><Polygon POINTS="409 680 424 686 425 686 427 686 500 682 565 688 566 688 567 688 568 688 578 682 639 688 641 688 675 680 675 667 673 630 654 640 645 631 645 630 644 630 643 630 637 629 562 625 561 625 560 625 559 625 559 626 557 628 544 641 449 641 429 625 428 625 427 625 409 625 409 667"/></Shape>
+	    <String CONTENT="Zucari dal foa" HPOS="409" VPOS="625" WIDTH="266" HEIGHT="63"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2793acf9" TAGREFS="LT2006" BASELINE="405 743 756 744" HPOS="403" VPOS="684" WIDTH="351" HEIGHT="78">
+            <Shape><Polygon POINTS="432 751 441 759 441 760 443 760 444 760 446 762 521 762 521 760 522 760 542 751 589 751 600 760 602 760 603 760 605 760 683 751 710 760 712 760 713 760 715 760 753 750 754 743 753 704 675 704 669 698 653 685 652 685 650 685 568 685 566 685 565 685 563 685 563 687 557 691 548 701 492 688 488 688 487 688 485 688 455 701 406 684 404 742 403 751"/></Shape>
+	    <String CONTENT="Zenseri beledi e m" HPOS="403" VPOS="684" WIDTH="351" HEIGHT="78"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d9a1555a" TAGREFS="LT2006" BASELINE="411 789 674 792" HPOS="410" VPOS="747" WIDTH="264" HEIGHT="72">
+            <Shape><Polygon POINTS="410 803 452 809 459 816 459 817 460 817 461 817 511 818 512 818 513 818 514 818 528 807 530 806 559 806 561 808 569 815 569 816 570 816 571 816 572 816 604 809 615 807 619 810 631 819 632 819 633 819 634 819 635 819 653 811 661 807 671 811 674 792 673 750 625 752 624 752 623 752 610 762 596 755 595 755 594 755 593 755 577 763 535 763 493 757 492 757 454 762 435 748 434 748 433 748 411 747 411 789"/></Shape>
+	    <String CONTENT="Zenseri uerdi" HPOS="410" VPOS="747" WIDTH="264" HEIGHT="72"/>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

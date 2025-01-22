@@ -56,72 +56,76 @@ characters:
   - E
   - C
   - z
+  - x
   - A
   - I
+  - ̧
   - D
   - L
-  - "'"
-  - ͤ
   - M
+  - ͤ
+  - "'"
+  - O
+  - S
+  - R
   - ͧ
-  - ̧
   - y
   - ꝙ
-  - O
-  - R
   - ͬ
   - ł
-  - S
   - F
-  - U
-  - ̀
-  - x
-  - P
-  - T
   - N
-  - B
-  - Q
-  - ':'
+  - U
   - ̾
-  - '='
+  - T
+  - P
+  - Q
+  - ̀
+  - B
+  - ':'
   - ͥ
+  - '='
+  - ꝯ
   - X
   - ß
-  - ꝯ
   - ᵒ
   - ẜ
   - G
-  - H
-  - '9'
-  - '2'
   - ͦ
-  - '1'
-  - ꝓ
-  - '4'
-  - ́
   - ͣ
+  - H
+  - '2'
+  - '9'
+  - '1'
+  - ¶
+  - '4'
+  - ꝓ
+  - ́
+  - '3'
+  - '5'
   - k
   - ͭ
-  - '5'
   - '7'
-  - '3'
   - '8'
   - /
   - ε
   - ɨ
+  - đ
+  - Z
   - '6'
   - ι
   - ο
+  - '0'
+  - Ꝑ
+  -  
   - ̓
   - ν
   - ς
-  - '0'
   - ꝗ
   - ̈
   - μ
   - λ
   - ꝰ
-  - Ꝑ
   - α
   - ω
   - π
@@ -129,6 +133,7 @@ characters:
   - ‸
   - ͫ
   - Y
+  - '-'
   - (
   - )
   - θ
@@ -144,7 +149,6 @@ characters:
   - +
   - ɂ
   - ᵉ
-  - đ
   mode: NFD
 description: Transcription of samples of Medieval Italian manuscripts
 format: Alto-XML
@@ -170,13 +174,13 @@ title: HTRomance, Medieval Italian corpus of ground-truth for Handwritten Text R
   and Layout Segmentation
 url: https://github.com/HTRomance-Project/medieval-italian
 volume:
-- count: 76590
+- count: 84694
   metric: characters
-- count: 50
+- count: 61
   metric: files
-- count: 2695
+- count: 2956
   metric: lines
 - count: 60
   metric: pages
-- count: 186
+- count: 213
   metric: regions
